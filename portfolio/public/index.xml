@@ -6,6 +6,14 @@
     <description>Recent content on Nilla&#39;s portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2025 16:33:52 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 06 Feb 2025 16:33:52 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my About page&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
